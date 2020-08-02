@@ -1,0 +1,5 @@
+{
+    "name": "flake8-github-action",
+    "description": "Run flake8 with annotated output",
+    "main": "index.js"
+}

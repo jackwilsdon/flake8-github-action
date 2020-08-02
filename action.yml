@@ -1,0 +1,9 @@
+name: flake8
+author: jackwilsdon
+description: Run flake8 with annotated output.
+runs:
+  using: node12
+  main: index.js
+branding:
+  icon: check-circle
+  color: yellow
